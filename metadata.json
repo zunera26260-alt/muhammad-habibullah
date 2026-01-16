@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Habix Media - Multi-Tool Suite",
+  "description": "A professional, all-in-one web utility platform featuring AI image tools, productivity calculators, and text utilities with SEO-optimized content.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
